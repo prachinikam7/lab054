@@ -5,11 +5,11 @@ ABOUT THIS PROJECT This repository is created
 
 GIT COMMANDS LEARNED
 
-git clone
-git status
-git add
-git commit
-git log
-git init
-git branch
-git merge
+1.git clone
+2.git status
+3.git add
+4.git commit
+5.git log
+6.git init
+7.git branch
+8.git merge
